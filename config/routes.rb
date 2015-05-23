@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root '/main'
+  root '/index'
 
   # namespace :api, defaults: {format: :json} do
   #   namespace :v1 do
