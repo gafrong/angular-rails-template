@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get '/', to: redirect('/about')
+  root '/'
 
   # namespace :api, defaults: {format: :json} do
   #   namespace :v1 do
