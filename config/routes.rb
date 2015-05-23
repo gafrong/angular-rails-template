@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root '/'
+  root '/main'
 
   # namespace :api, defaults: {format: :json} do
   #   namespace :v1 do
