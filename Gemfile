@@ -15,6 +15,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'bootstrap-sass'
 gem "rails_12factor"
+gem 'rails-api'
 
 group :development do
   gem 'spring', '~> 1.3.3'
