@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby "2.1.3"
 
 gem 'rails', '4.1.8'
 gem 'pg'
@@ -13,6 +14,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'bootstrap-sass'
+gem "rails_12factor"
 
 group :development do
   gem 'spring', '~> 1.3.3'
